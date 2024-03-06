@@ -1,0 +1,13 @@
+{
+  "name": "appenginemacepstest",
+  "version": "1.0.0",
+  "description": "SM Testing",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "smacleod",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
